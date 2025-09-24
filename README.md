@@ -17,3 +17,6 @@ dotnet new classlib -n Domain
 
 ### create application
 dotnet new classlib -n Application
+
+### create Persistence
+dotnet new classlib -n Persistence
